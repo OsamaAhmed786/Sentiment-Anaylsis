@@ -1,0 +1,9 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+transformers==4.43.3
+torch==2.3.1
+nltk==3.9.1
+#openai-whisper==20231117
+ffmpeg-python==0.2.0
+SpeechRecognition
+python-multipart
