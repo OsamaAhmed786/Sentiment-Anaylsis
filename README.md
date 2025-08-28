@@ -88,13 +88,14 @@ Output Example:
 
 
 ## 📂 Project Structure
-.
-├── app.py               # Main script
-├── requirements.txt     # Dependencies
-├── nltk_data/           # Pre-downloaded NLTK lexicon (optional)
-├── Dockerfile           # Image of Docker
-└── README.md            # Project documentation
-
+      ```
+      .
+      ├── app.py               # Main script
+      ├── requirements.txt     # Dependencies
+      ├── nltk_data/           # Pre-downloaded NLTK lexicon (optional)
+      ├── Dockerfile           # Image of Docker
+      └── README.md            # Project documentation
+      
 
 ## Local Run (FastAPI/Uvicorn)
     ```
