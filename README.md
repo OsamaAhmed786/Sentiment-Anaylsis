@@ -28,7 +28,7 @@ The project combines **multiple NLP models** to provide deep insights into human
 
 1. Clone the repository  
    ```
-   git clone https://github.com/your-username/sentiment-analyzer.git
+   git clone https://github.com/OsamaAhmed786/Sentiment-Anaylsis.git
    cd sentiment-analyzer
 
 2. Create & activate virtual environment (recommended)
